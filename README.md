@@ -8,6 +8,14 @@
 
 TechMart Ad Optimization Agent is a complete machine learning project that processes real-world sales and advertising data to provide data-driven recommendations for optimizing ad spending and targeting strategies.
 
+![image alt](https://github.com/usman007w/TechMart-Ad-Optimization-Agent/blob/main/Codes/outputs/Screenshot%202026-05-05%20021114.png?raw=true)
+
+![image alt](https://github.com/usman007w/TechMart-Ad-Optimization-Agent/blob/main/Codes/outputs/Screenshot%202026-05-05%20104259.png?raw=true)
+
+![image alt](https://github.com/usman007w/TechMart-Ad-Optimization-Agent/blob/main/Codes/outputs/Screenshot%202026-05-05%20104259.png?raw=true)
+
+![image alt](https://github.com/usman007w/TechMart-Ad-Optimization-Agent/blob/main/Codes/outputs/Screenshot%202026-05-05%20012911.png?raw=true)
+
 ### Key Statistics
 - **185,686** sales records analyzed
 - **1,143** ad campaign records processed
